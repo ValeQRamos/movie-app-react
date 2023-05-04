@@ -65,7 +65,8 @@ function App() {
                 </span>
               </div>
               <div className="overview">
-                <h3>Overview</h3>${overview}
+                <h3>Overview</h3>
+                {overview}
               </div>
               `
             </div>
